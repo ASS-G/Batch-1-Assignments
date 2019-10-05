@@ -39,7 +39,7 @@ One assignment for every week. Scroll down to take a look at them. All you need 
   - **Resources**
     - [Git Training Kit](https://github.com/ASS-G/Git-Training-Kit)
     - [Getting started with Python](https://github.com/ASS-G/Python-Training-Kit)
-    - [Hello World using Print function](/Assignment 1/180501000/hello_world.py)
+    - [Hello World using Print function](https://github.com/ASS-G/Batch-1-Assignments/blob/patch/p2/Assignment%201/180501000/hello_world.py)
 
 
 
@@ -63,7 +63,7 @@ FAQ:
   2. Create a folder `180501XXX` inside `assignment Y`
   3. Upload your code in the path `assignment Y\\180501XXX`
 
-  **Please do not modify any existing files in the repository.**
+  **:no_entry_sign: Please do not modify any existing files in the repository.**
 
   #### I forked the repository but some problems were added only after that. How do I access those problems?
   Not to worry! Open your nearest terminal or command prompt and navigate over to your forked repository. Enter these commands:
@@ -81,7 +81,7 @@ FAQ:
   #### I'm facing difficulties with/need help understanding a particular question.
   Contact one of the board members or open up an [issue](https://github.com/ASS-G/Batch-1-Assignments/issues) on this repository and we'll do our best to help you out.
 
-###### [[Back to Top]](#----)
+###### [[:arrow_up: Back to Top]](#----)
 
 
 ![wave](http://cdn.thekrishna.in/img/common/border.png)
