@@ -8,11 +8,11 @@ Welcome to the  ASS-G - Assignment Repository. The assignments will be posted he
 
 **Please submit PRs (Pull Requests) after completion of every assignment.**
 
-**Please give proper tilte and description with your name, registration number, class, section and assignment id**
+**Please give proper title and description with your name, registration number, class, section and assignment id**
 
 **Please follow proper file structure else the PR would be rejected**
 
-**Keep fetching the repository from here as we instruct so that you'd recieve all assignments in time**
+**Keep fetching the repository from here as we instruct so that you'd receive all assignments in time**
 
 ## What Do I Do?
 One assignment for every week. Scroll down to take a look at them. All you need to do is fork this repository, complete the given assignment, send a pull request over to us and repeat the process for every assignment. Check out our FAQ for more information.
@@ -46,7 +46,7 @@ FAQ:
   #### How should I complete these programs?
   We have a folder for each assignment. Simply create a folder with your `registration_number` ,  complete your code and move the file into that folder.
   Some examples:
-  If your `registration_number` is **180501XXX** submitting assignment Y then:
+  If your `registration_number` is **180501XXX** submitting `assignment Y` then:
   1. Go to the folder `assignment Y`
   2. Create a folder `180501XXX` inside `assignment Y`
   3. Upload your code in the path `assignment Y\\180501XXX`
@@ -70,3 +70,6 @@ FAQ:
   Contact one of the board members or open up an [issue](https://github.com/ASS-G/Batch-1-Assignments/issues) on this repository and we'll do our best to help you out.
 
 ###### [[Back to Top]](#----)
+
+
+![wave](http://cdn.thekrishna.in/img/common/border.png)
