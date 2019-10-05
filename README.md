@@ -2,7 +2,10 @@
 <h1>
     <img alt="header" src="/src/assets/Header.png" width="900" height="300"></img>
 </h1>
+
+
 Welcome to the  ASS-G - Assignment Repository. The assignments will be posted here implement. Successfully completing an assignment implies proper conceptual understanding.
+
 
 **:white_check_mark: Send a pull request only after completing an assignment.**
 
@@ -14,27 +17,28 @@ Welcome to the  ASS-G - Assignment Repository. The assignments will be posted he
 
 **:white_check_mark: Keep fetching the repository from here as we instruct so that you'd receive all assignments in time**
 
+
 ## What Do I Do?
 One assignment for every week. Scroll down to take a look at them. All you need to do is fork this repository, complete the given assignment, send a pull request over to us and repeat the process for every assignment. Check out our FAQ for more information.
+
 
 ## Index
   - [**Assignment 1 - Using Git**](#assignment-1---using-git)
   - [**FAQ**](#faq)
 
-## Algorithms
-### **Assignment 1 - Using Git**
 
+## Algorithms
+
+### **Assignment 1 - Using Git**
   - **Problem**
     - Write your first python program `hello_world.py` and upload it to our Assignment Repository using Git.
     - :warning: Follow the file structure properly as instructed [here](#how-should-i-complete-these-programs) else the Pull request will be automatically rejected.
-
 
   - **Expected Output**
     ```python
       py hello_world.py >      
       Hello World!
     ```
-
 
   - **Resources**
     - [Git Training Kit](https://github.com/ASS-G/Git-Training-Kit)
