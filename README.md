@@ -28,7 +28,6 @@ One assignment for every week. Scroll down to take a look at them. All you need 
 
 
 ## Algorithms
-
 ### **Assignment 1 - Using Git**
   - **Problem**
     - Write your first python program `hello_world.py` and upload it to our Assignment Repository using Git.
