@@ -81,7 +81,7 @@ FAQ:
   #### I'm facing difficulties with/need help understanding a particular question.
   Contact one of the board members or open up an [issue](https://github.com/ASS-G/Batch-1-Assignments/issues) on this repository and we'll do our best to help you out.
 
-###### [[:arrow_up: Back to Top]](#----)
+###### [:arrow_up: Back to Top](#----)
 
 
 ![wave](http://cdn.thekrishna.in/img/common/border.png)
