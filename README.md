@@ -4,15 +4,15 @@
 </h1>
 Welcome to the  ASS-G - Assignment Repository. The assignments will be posted here implement. Successfully completing an assignment implies proper conceptual understanding.
 
-**Send a pull request only after completing an assignment.**
+**:white_check_mark: Send a pull request only after completing an assignment.**
 
-**Please submit PRs (Pull Requests) after completion of every assignment.**
+**:white_check_mark: Please submit PRs (Pull Requests) after completion of every assignment.**
 
-**Please give proper title and description with your name, registration number, class, section and assignment id**
+**:white_check_mark: Please give proper title and description with your name, registration number, class, section and assignment id**
 
-**Please follow proper file structure else the PR would be rejected**
+**:white_check_mark: Please follow proper file structure else the PR would be rejected**
 
-**Keep fetching the repository from here as we instruct so that you'd receive all assignments in time**
+**:white_check_mark: Keep fetching the repository from here as we instruct so that you'd receive all assignments in time**
 
 ## What Do I Do?
 One assignment for every week. Scroll down to take a look at them. All you need to do is fork this repository, complete the given assignment, send a pull request over to us and repeat the process for every assignment. Check out our FAQ for more information.
@@ -23,11 +23,23 @@ One assignment for every week. Scroll down to take a look at them. All you need 
 
 ## Algorithms
 ### **Assignment 1 - Using Git**
+
   - **Problem**
-    - XYZ
+    - Write your first python program `hello_world.py` and upload it to our Assignment Repository using Git.
+    - :warning: Follow the file structure properly as instructed [here](#how-should-i-complete-these-programs) else the Pull request will be automatically rejected.
+
+
+  - **Expected Output**
+    ```python
+      py hello_world.py >      
+      Hello World!
+    ```
+
+
   - **Resources**
     - [Git Training Kit](https://github.com/ASS-G/Git-Training-Kit)
-	- [Markdown and GitHub Pages Tutorial](https://github.com/ASS-G/Markdown-and-GitHub-Pages-Tutorial)
+    - [Getting started with Python](https://github.com/ASS-G/Python-Training-Kit)
+    - [Hello World using Print function](/Assignment 1/180501000/hello_world.py)
 
 
 
