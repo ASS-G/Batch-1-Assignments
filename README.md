@@ -11,7 +11,7 @@ Welcome to the  ASS-G - Assignment Repository. The assignments will be posted he
 
 **:white_check_mark: Please submit PRs (Pull Requests) after completion of every assignment.**
 
-**:white_check_mark: Please give proper title and description with your name, registration number, class, section and assignment id**
+**:white_check_mark: [Please follow this PR Template while submitting assignments](https://github.com/ASS-G/Batch-1-Assignments/pull/9)**
 
 **:white_check_mark: Please follow proper file structure else the PR would be rejected**
 
