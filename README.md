@@ -43,7 +43,10 @@ One assignment for every week. Scroll down to take a look at them. All you need 
     - [Git Training Kit](https://github.com/ASS-G/Git-Training-Kit)
     - [Getting started with Python](https://github.com/ASS-G/Python-Training-Kit)
     - [Hello World using Print function](https://github.com/ASS-G/Batch-1-Assignments/blob/patch/p2/Assignment%201/180501000/hello_world.py)
-
+  
+  - **Still stuck?**
+    - :warning: Try doing the assignment by yourself before proceeding.
+    - [Video describing how to submit the pull request](https://drive.google.com/file/d/1wZX83l7aphEwwgEfdCWTZqeg3XM8pc3O/view?usp=sharing)
 
 
 FAQ:
