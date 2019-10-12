@@ -27,6 +27,7 @@ One assignment for every week. Scroll down to take a look at them. All you need 
 ## Index
   - [**Assignment 1 - Using Git**](#assignment-1---using-git)
   - [**Assignment 2 - Python Basics and Strings**](#assignment-2---python-basics-and-strings)
+  - [**Assignment 3 - temp**](#assignment-3---temp)
   - [**FAQ**](#faq)
 
 
@@ -117,6 +118,20 @@ details are given below. Using the concepts of lists and Strings in Python. Prin
     - [Python Basics and Strings](https://nbviewer.jupyter.org/github/ASS-G/Python-Training-Kit/blob/master/notebook/Python_Basics_and_Strings.ipynb)
     - [Getting started with Python](https://github.com/ASS-G/Python-Training-Kit)
 
+### **Assignment 3 - <Title>**
+  - **Problem 1 (<fname>.py)**
+    - <body>
+    - **Sample Input**
+    ```
+    <Input>
+    ```
+    - **Sample Output**
+    ```
+    <Output>
+    ```
+  - **Resources**
+    - [Python Basics and Strings](https://nbviewer.jupyter.org/github/ASS-G/Python-Training-Kit/blob/master/notebook/Python_Basics_and_Strings.ipynb)
+    - [Getting started with Python](https://github.com/ASS-G/Python-Training-Kit)
 
 
 FAQ:
