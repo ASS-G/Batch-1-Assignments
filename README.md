@@ -49,7 +49,74 @@ One assignment for every week. Scroll down to take a look at them. All you need 
   - **Still stuck?**
     - :warning: Try doing the assignment by yourself before proceeding.
     - [Video describing how to submit the pull request](https://drive.google.com/file/d/1wZX83l7aphEwwgEfdCWTZqeg3XM8pc3O/view?usp=sharing)
+    
 
+### **Assignment 2**
+  - **Problem 1**
+    - Given an amount robbed by a thief ,who’s aim was to rob more than 20,000, classify the profit of the thief as following:
+          
+         -Loss if he has robbed less than 5000
+         
+         -Moderate if it is between 5000 to 19999
+         
+         -Good theft if more than 20000
+         
+  - **Sample Input**
+    ```
+    9500
+    ```
+  - **Sample Output**
+    ```
+    Moderate
+    ```  
+    
+    
+    
+  - **Problem 2**
+   
+    -Print the characters in a string  along with the number of occurences of those characters.
+          
+  - **Sample Input**
+    ```
+    aabbccddee
+    ```
+  - **Sample Output**
+    ```
+     a 2
+     b 2
+     c 2
+     d 2
+     e 2              
+    ```  
+    
+    
+    
+  - **Problem 3**
+    - The details of students and their respective attendance
+details are given. Using lists Print the names of the students who were present (seperated by -)
+          
+          Ram-P
+          Malar-A
+          Ahuja-P
+          Vijay-P
+          Harini-A
+         
+  - **Sample Input**
+    ```
+    Leena-P
+    Steves-A
+    Dinesh-P
+    Pragya-P
+    ```
+  - **Sample Output**
+    ```
+    Leena Dinesh Pragya
+    ```  
+   
+  - **Resources**
+    - [Python-Training-kit](https://nbviewer.jupyter.org/github/ASS-G/Python-Training-Kit/blob/master/notebook/Python_Basics_and_Strings.ipynb)
+
+   
 
 FAQ:
 ======
