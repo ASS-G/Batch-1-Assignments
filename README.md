@@ -26,6 +26,7 @@ One assignment for every week. Scroll down to take a look at them. All you need 
 
 ## Index
   - [**Assignment 1 - Using Git**](#assignment-1---using-git)
+  - [**Assignment 2 - Python Basics and Strings**](#assignment-2---python-basics-and-strings)
   - [**FAQ**](#faq)
 
 
