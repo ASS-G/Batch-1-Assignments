@@ -11,7 +11,9 @@ Welcome to the  ASS-G - Assignment Repository. The assignments will be posted he
 
 **:white_check_mark: Please submit PRs (Pull Requests) after completion of every assignment.**
 
-**:white_check_mark: Please give proper title and description with your name, registration number, class, section and assignment id**
+**:white_check_mark: [Please follow this PR Template while submitting assignments](https://github.com/ASS-G/Batch-1-Assignments/pull/9)**
+
+**:white_check_mark: Please read through the [FAQ](#faq) before proceeeding with the assignment.**
 
 **:white_check_mark: Please follow proper file structure else the PR would be rejected**
 
@@ -42,8 +44,11 @@ One assignment for every week. Scroll down to take a look at them. All you need 
   - **Resources**
     - [Git Training Kit](https://github.com/ASS-G/Git-Training-Kit)
     - [Getting started with Python](https://github.com/ASS-G/Python-Training-Kit)
-    - [Hello World using Print function](https://github.com/ASS-G/Batch-1-Assignments/blob/patch/p2/Assignment%201/180501000/hello_world.py)
-
+    - [Hello World using Print function](https://github.com/ASS-G/Batch-1-Assignments/blob/master/Assignment%201/180501000/hello_world.py)
+  
+  - **Still stuck?**
+    - :warning: Try doing the assignment by yourself before proceeding.
+    - [Video describing how to submit the pull request](https://drive.google.com/file/d/1wZX83l7aphEwwgEfdCWTZqeg3XM8pc3O/view?usp=sharing)
 
 
 FAQ:
