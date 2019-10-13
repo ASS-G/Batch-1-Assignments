@@ -11,7 +11,9 @@ Welcome to the  ASS-G - Assignment Repository. The assignments will be posted he
 
 **:white_check_mark: Please submit PRs (Pull Requests) after completion of every assignment.**
 
-**:white_check_mark: Please give proper title and description with your name, registration number, class, section and assignment id**
+**:white_check_mark: [Please follow this PR Template while submitting assignments](https://github.com/ASS-G/Batch-1-Assignments/pull/9)**
+
+**:white_check_mark: Please read through the [FAQ](#faq) before proceeding with the assignment.**
 
 **:white_check_mark: Please follow proper file structure else the PR would be rejected**
 
@@ -24,6 +26,7 @@ One assignment for every week. Scroll down to take a look at them. All you need 
 
 ## Index
   - [**Assignment 1 - Using Git**](#assignment-1---using-git)
+  - [**Assignment 2 - Python Basics and Strings**](#assignment-2---python-basics-and-strings)
   - [**FAQ**](#faq)
 
 
@@ -35,14 +38,84 @@ One assignment for every week. Scroll down to take a look at them. All you need 
 
   - **Expected Output**
     ```python
-      py hello_world.py >      
+      py hello_world.py >
       Hello World!
     ```
 
   - **Resources**
     - [Git Training Kit](https://github.com/ASS-G/Git-Training-Kit)
     - [Getting started with Python](https://github.com/ASS-G/Python-Training-Kit)
-    - [Hello World using Print function](https://github.com/ASS-G/Batch-1-Assignments/blob/patch/p2/Assignment%201/180501000/hello_world.py)
+    - [Hello World using Print function](https://github.com/ASS-G/Batch-1-Assignments/blob/master/Assignment%201/180501000/hello_world.py)
+
+  - **Still stuck?**
+    - :warning: Try doing the assignment by yourself before proceeding.
+    - [Video describing how to submit the pull request](https://drive.google.com/file/d/1wZX83l7aphEwwgEfdCWTZqeg3XM8pc3O/view?usp=sharing)
+
+
+### **Assignment 2 - Python Basics and Strings**
+  - **Problem 1 (robberThief.py)**
+    - Given an amount robbed by a thief ,who’s aim was to rob more than 20,000, classify the profit of the thief as following:
+         - Loss if he has robbed less than `5000`
+         - Moderate if it is between `5000` to `19999`
+         - Good theft if more than `20000`
+
+    - **Sample Input**
+    ```
+    Enter the amount robbed by the thief: 9500
+    ```
+    - **Sample Output**
+    ```
+    Profit is Moderate
+    ```
+
+
+  - **Problem 2 (occurances.py)**
+    - Print the characters in a string along with the number of occurances of those characters.
+
+    - **Sample Input**
+      ```
+      Enter the String: aabbccddee
+      ```
+    - **Sample Output**
+      ```
+      Occurances:
+      a -> 2
+      b -> 2
+      c -> 2
+      d -> 2
+      e -> 2
+      ```
+
+
+  - **Problem 3 (attendanceStudents.py)**
+    - The details of students and their respective attendance
+details are given below. Using the concepts of lists and Strings in Python. Print the names of the students who were present
+    - The name and their Attendance statuses are separated by "-"
+    - `P` stands for Present while `A` stands for Absent
+
+          Ram-P
+          Malar-A
+          Ahuja-P
+          Vijay-P
+          Harini-A
+
+    - **Sample Input**
+      ```
+      Enter your String:
+      Leena-P
+      Steve-A
+      Dinesh-P
+      Pragya-P
+      ```
+    - **Sample Output**
+      ```
+      The present students were:
+      Leena Dinesh Pragya
+      ```
+
+  - **Resources**
+    - [Python Basics and Strings](https://nbviewer.jupyter.org/github/ASS-G/Python-Training-Kit/blob/master/notebook/Python_Basics_and_Strings.ipynb)
+    - [Getting started with Python](https://github.com/ASS-G/Python-Training-Kit)
 
 
 
