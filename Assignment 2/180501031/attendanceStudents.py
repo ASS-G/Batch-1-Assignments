@@ -1,4 +1,4 @@
- (input("Enter the number of students:"))
+n = (input("Enter the number of students:"))
 print("Enter n = int the name and P-present A-absent:")
 res = []
 for _ in range(n):
