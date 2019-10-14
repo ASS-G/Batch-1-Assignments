@@ -1,11 +1,11 @@
-n=int(input('enter the no.of students:'))
-attendance=[]
-print('enter the string:')
-for i in range(n)
-     b=input().split('-')
-     if b[1]=='p'
-         attendance.append(b[0])
-print('people  present are:')
-for name in attendance:
-    print(name,end ="")
-
+l=[]
+x=int(input("Enter no of student"))
+print("Enter your string")
+for i in range(0,x):
+  a=str(input())
+  l.append(a)
+print("The students present were:")
+for j in l:
+  z="P" in j
+  if(z):
+    print(j[0:-2],end=" ")
