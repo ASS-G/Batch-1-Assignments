@@ -1,5 +1,5 @@
 a=int(input('Enter the No of Students : '))
-b=[]
+k=[]
 print('Enter your string : ')
 for i in range(a):
 	b=input().split('-')
